@@ -1,6 +1,6 @@
-Free Download Source Code "Payroll Management System"
+##Free Download Source Code "Payroll Management System"
 
-FIRST Download
+###FIRST Download
 
 1.XAMPP
 
@@ -23,7 +23,7 @@ FIRST Download
 7.Run the script http://localhost/Payroll_Management_System
 
 
-**LOGIN DETAILS** 
+###LOGIN DETAILS
 
 Create your own User 
 
